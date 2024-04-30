@@ -34,7 +34,7 @@
             android:drawableStart="@drawable/baseline_edit_location_24"
             android:drawablePadding="@dimen/_4sdp"
             android:text="TextView"
-            android:textColor="@color/g_black"
+            android:textColor="#38435C"
             android:textSize="@dimen/_12sdp" />
 
         <TextView
